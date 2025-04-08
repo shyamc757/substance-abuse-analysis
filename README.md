@@ -36,7 +36,7 @@ Key methods:
 
 All data cleaning and preparation steps are handled in a shared preprocessing notebook.
 
-📁 [`data-processing/data_preprocessing.ipynb`](./data-processing/data_preprocessing.ipynb)
+📁 [`data_processing/data_preprocessing.ipynb`](./data-processing/data_preprocessing.ipynb)
 
 > **Note:** The raw data is excluded from this repository. Refer to the DAWN [official source](https://www.samhsa.gov/data/data-we-collect/dawn-drug-abuse-warning-network) for access.
 
@@ -46,7 +46,7 @@ All data cleaning and preparation steps are handled in a shared preprocessing no
 
 For a full deep dive into methodology, analysis, visuals, and results:
 
-📄 [`report/Data Mining Paper.pdf`](./report/Data%20Mining%20Paper.pdf)
+📄 [`report/Data_Mining_Paper.pdf`](./report/Data%20Mining%20Paper.pdf)
 
 ---
 
