@@ -2,7 +2,7 @@
 
 This repository explores trends and patterns in substance abuse across U.S. metropolitan areas using data from the **Drug Abuse Warning Network (DAWN)**. The dataset includes over **2.2 million hospital emergency room records** from 2004 to 2011, offering a rich basis for data mining and public health insights.
 
----
+
 
 ## 🧠 Project Overview
 
@@ -19,7 +19,7 @@ Key methods:
 
 📁 [`pattern-mining-classification/`](./pattern-mining-classification) — includes its own `README.md`
 
----
+
 
 ### 📈 Project 2: Time Series Forecasting & Granger Causality
 Analyzes temporal trends and explores whether economic indicators like the housing market crash in 2008 can help predict changes in substance abuse cases.
@@ -30,25 +30,25 @@ Key methods:
 
 📁 [`time-series-forecasting/`](./time-series-forecasting) — includes its own `README.md`
 
----
+
 
 ## ⚙️ Data Preprocessing
 
 All data cleaning and preparation steps are handled in a shared preprocessing notebook.
 
-📁 [`data_processing/data_preprocessing.ipynb`](./data-processing/data_preprocessing.ipynb)
+📁 [`data_processing/data_preprocessing.ipynb`](./data_processing/data_preprocessing.ipynb)
 
 > **Note:** The raw data is excluded from this repository. Refer to the DAWN [official source](https://www.samhsa.gov/data/data-we-collect/dawn-drug-abuse-warning-network) for access.
 
----
+
 
 ## 📄 Project Report
 
 For a full deep dive into methodology, analysis, visuals, and results:
 
-📄 [`report/Data_Mining_Paper.pdf`](./report/Data%20Mining%20Paper.pdf)
+📄 [`report/Data_Mining_Paper.pdf`](./report/Data_Mining_Paper.pdf)
 
----
+
 
 ## 📦 Repository Structure
 
@@ -76,7 +76,7 @@ substance-abuse-analysis/
 └── README.md                          # Master README (this file)
 ```
 
----
+
 
 ## 📥 Getting Started
 
@@ -89,13 +89,13 @@ substance-abuse-analysis/
 
 3. Open the relevant Jupyter notebooks in each project folder to explore the code.
 
----
+
 
 ## 🙏 Acknowledgments
 
 Special thanks to **Professor Jiebo Luo** for invaluable guidance throughout this project.
 
----
+
 
 ## 📜 License
 
